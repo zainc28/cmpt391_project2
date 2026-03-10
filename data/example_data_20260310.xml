@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+
+    <record>
+        <UniversityName>Grant MacEwan University</UniversityName>
+        <Province>AB</Province>
+        <FacultyName>Science</FacultyName>
+        <DepartmentName>Computer Science</DepartmentName>
+        <CourseCode>CS101</CourseCode>
+        <CourseName>Introduction to Programming</CourseName>
+        <InstructorName>Dr Adams</InstructorName>
+        <Rank>Professor</Rank>
+        <StudentName>Alice Smith</StudentName>
+        <Major>Computer Science</Major>
+        <Gender>Female</Gender>
+        <Semester>Winter</Semester>
+        <Year>2026</Year>
+    </record>
+
+    <record>
+        <UniversityName>Grant MacEwan University</UniversityName>
+        <Province>AB</Province>
+        <FacultyName>Science</FacultyName>
+        <DepartmentName>Computer Science</DepartmentName>
+        <CourseCode>CS102</CourseCode>
+        <CourseName>Data Structures</CourseName>
+        <InstructorName>Dr Brown</InstructorName>
+        <Rank>Associate Professor</Rank>
+        <StudentName>Bob Johnson</StudentName>
+        <Major>Software Engineering</Major>
+        <Gender>Male</Gender>
+        <Semester>Winter</Semester>
+        <Year>2026</Year>
+    </record>
+
+    <record>
+        <UniversityName>University of Alberta</UniversityName>
+        <Province>AB</Province>
+        <FacultyName>Engineering</FacultyName>
+        <DepartmentName>Computer Science</DepartmentName>
+        <CourseCode>CPSC100</CourseCode>
+        <CourseName>Intro to CS</CourseName>
+        <InstructorName>Dr Clark</InstructorName>
+        <Rank>Professor</Rank>
+        <StudentName>Charlie Wang</StudentName>
+        <Major>Computer Science</Major>
+        <Gender>Male</Gender>
+        <Semester>Winter</Semester>
+        <Year>2026</Year>
+    </record>
+
+    <record>
+        <UniversityName>University of Alberta</UniversityName>
+        <Province>AB</Province>
+        <FacultyName>Engineering</FacultyName>
+        <DepartmentName>Software Engineering</DepartmentName>
+        <CourseCode>SE200</CourseCode>
+        <CourseName>Software Design</CourseName>
+        <InstructorName>Dr Davis</InstructorName>
+        <Rank>Associate Professor</Rank>
+        <StudentName>Dana Lee</StudentName>
+        <Major>Software Engineering</Major>
+        <Gender>Female</Gender>
+        <Semester>Winter</Semester>
+        <Year>2026</Year>
+    </record>
+
+    <record>
+        <UniversityName>University of Calgary</UniversityName>
+        <Province>AB</Province>
+        <FacultyName>Science</FacultyName>
+        <DepartmentName>Computer Science</DepartmentName>
+        <CourseCode>CPSC210</CourseCode>
+        <CourseName>Database Systems</CourseName>
+        <InstructorName>Dr Evans</InstructorName>
+        <Rank>Professor</Rank>
+        <StudentName>Emily Roberts</StudentName>
+        <Major>Computer Science</Major>
+        <Gender>Female</Gender>
+        <Semester>Winter</Semester>
+        <Year>2026</Year>
+    </record>
+
+    <record>
+        <UniversityName>University of Calgary</UniversityName>
+        <Province>AB</Province>
+        <FacultyName>Engineering</FacultyName>
+        <DepartmentName>Software Engineering</DepartmentName>
+        <CourseCode>SE310</CourseCode>
+        <CourseName>Software Testing</CourseName>
+        <InstructorName>Dr Foster</InstructorName>
+        <Rank>Professor</Rank>
+        <StudentName>Frank Miller</StudentName>
+        <Major>Software Engineering</Major>
+        <Gender>Male</Gender>
+        <Semester>Winter</Semester>
+        <Year>2026</Year>
+    </record>
+
+    <record>
+        <UniversityName>University of Calgary</UniversityName>
+        <Province>AB</Province>
+        <FacultyName>Engineering</FacultyName>
+        <DepartmentName>Computer Science</DepartmentName>
+        <CourseCode>CPSC301</CourseCode>
+        <CourseName>Algorithms</CourseName>
+        <InstructorName>Dr Green</InstructorName>
+        <Rank>Associate Professor</Rank>
+        <StudentName>Grace Kim</StudentName>
+        <Major>Computer Science</Major>
+        <Gender>Female</Gender>
+        <Semester>Winter</Semester>
+        <Year>2026</Year>
+    </record>
+
+    <record>
+        <UniversityName>Concordia University</UniversityName>
+        <Province>QC</Province>
+        <FacultyName>Engineering</FacultyName>
+        <DepartmentName>Computer Science</DepartmentName>
+        <CourseCode>COMP101</CourseCode>
+        <CourseName>Intro to Programming</CourseName>
+        <InstructorName>Dr Harris</InstructorName>
+        <Rank>Professor</Rank>
+        <StudentName>Hannah White</StudentName>
+        <Major>Computer Science</Major>
+        <Gender>Female</Gender>
+        <Semester>Winter</Semester>
+        <Year>2026</Year>
+    </record>
+
+    <record>
+        <UniversityName>University of Lethbridge</UniversityName>
+        <Province>AB</Province>
+        <FacultyName>Science</FacultyName>
+        <DepartmentName>Computer Science</DepartmentName>
+        <CourseCode>CSCI110</CourseCode>
+        <CourseName>Programming Fundamentals</CourseName>
+        <InstructorName>Dr Johnson</InstructorName>
+        <Rank>Professor</Rank>
+        <StudentName>Ian Brown</StudentName>
+        <Major>Computer Science</Major>
+        <Gender>Male</Gender>
+        <Semester>Winter</Semester>
+        <Year>2026</Year>
+    </record>
+
+    <record>
+        <UniversityName>University of Lethbridge</UniversityName>
+        <Province>AB</Province>
+        <FacultyName>Science</FacultyName>
+        <DepartmentName>Computer Science</DepartmentName>
+        <CourseCode>CSCI210</CourseCode>
+        <CourseName>Data Structures</CourseName>
+        <InstructorName>Dr King</InstructorName>
+        <Rank>Associate Professor</Rank>
+        <StudentName>Julia Lee</StudentName>
+        <Major>Software Engineering</Major>
+        <Gender>Female</Gender>
+        <Semester>Winter</Semester>
+        <Year>2026</Year>
+    </record>
+
+</courses>

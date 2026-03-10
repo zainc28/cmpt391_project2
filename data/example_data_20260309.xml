@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+    <record>
+        <UniversityName>University of Alberta</UniversityName>
+        <Province>Alberta</Province>
+        <FacultyName>Science</FacultyName>
+        <DepartmentName>Computer Science</DepartmentName>
+        <CourseCode>CMPUT301</CourseCode>
+        <CourseName>Software Engineering</CourseName>
+        <InstructorName>John Smith</InstructorName>
+        <Rank>Professor</Rank>
+        <StudentName>Alice Brown</StudentName>
+        <Major>Computer Science</Major>
+        <Gender>Female</Gender>
+        <Semester>Fall</Semester>
+        <Year>2025</Year>
+    </record>
+    <record>
+        <UniversityName>University of Alberta</UniversityName>
+        <Province>Alberta</Province>
+        <FacultyName>Science</FacultyName>
+        <DepartmentName>Computer Science</DepartmentName>
+        <CourseCode>CMPUT301</CourseCode>
+        <CourseName>Software Engineering</CourseName>
+        <InstructorName>John Smith</InstructorName>
+        <Rank>Professor</Rank>
+        <StudentName>Bob Green</StudentName>
+        <Major>Computer Science</Major>
+        <Gender>Male</Gender>
+        <Semester>Fall</Semester>
+        <Year>2025</Year>
+    </record>
+    <record>
+        <UniversityName>University of Calgary</UniversityName>
+        <Province>Alberta</Province>
+        <FacultyName>Science</FacultyName>
+        <DepartmentName>Computer Science</DepartmentName>
+        <CourseCode>CPSC441</CourseCode>
+        <CourseName>Computer Networks</CourseName>
+        <InstructorName>Robert Chen</InstructorName>
+        <Rank>Professor</Rank>
+        <StudentName>Karen Li</StudentName>
+        <Major>Computer Science</Major>
+        <Gender>Female</Gender>
+        <Semester>Winter</Semester>
+        <Year>2026</Year>
+    </record>
+</records>
