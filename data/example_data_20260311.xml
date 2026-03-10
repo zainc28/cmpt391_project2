@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+
+    <record>
+        <UniversityName>Other university tset</UniversityName>
+        <Province>AB</Province>
+        <FacultyName>Science</FacultyName>
+        <DepartmentName>Computer Science</DepartmentName>
+        <CourseCode>CS102</CourseCode>
+        <CourseName>Introduction to Programming</CourseName>
+        <InstructorName>Dr Stone</InstructorName>
+        <Rank>Professor</Rank>
+        <StudentName>Alice Stone</StudentName>
+        <Major>Computer Science</Major>
+        <Gender>Female</Gender>
+        <Semester>Winter</Semester>
+        <Year>2026</Year>
+    </record>
+
+</courses>
